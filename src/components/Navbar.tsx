@@ -16,7 +16,7 @@ export default function Navbar() {
                 <img
                   src="https://i.im.ge/2025/01/15/zBH5iT.logo.png"
                   alt="FutureSphere Logo"
-                  className="h- w-auto saturate-100"
+                  className="h-40 w-auto saturate-100"
                 />
               </div>
             </div>
