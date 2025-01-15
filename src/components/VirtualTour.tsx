@@ -75,7 +75,7 @@ export default function VirtualTour() {
             className="relative rounded-2xl overflow-hidden"
           >
             <img
-              src="https://images.unsplash.com/photo-1508896694512-1eade558679c?auto=format&fit=crop&q=80&w=2070"
+              src="https://t4.ftcdn.net/jpg/08/93/76/75/360_F_893767595_6WRkhHzwFg03TqPD5RlvMVhMF1Bl4EBQ.jpg"
               alt="Virtual Tour Preview"
               className="w-full h-[500px] object-cover"
             />

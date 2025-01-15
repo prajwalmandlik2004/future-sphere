@@ -23,7 +23,7 @@ export default function Tickets() {
         "Guided tours",
         "Free workshop access"
       ],
-      image: "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&q=80&w=800"
+      image: "https://media.istockphoto.com/id/1009638284/photo/business-team-walking-together.jpg?s=612x612&w=0&k=20&c=oi5-SXjaQd1CAp30BrIqtBSJf4_jAemjNvHYAWfHlEA="
     },
     {
       name: "Youth Ticket",
@@ -36,7 +36,7 @@ export default function Tickets() {
         "Special youth activities",
         "Educational materials"
       ],
-      image: "https://images.unsplash.com/photo-1491013516836-7db643ee125a?auto=format&fit=crop&q=80&w=800"
+      image: "https://media.istockphoto.com/id/1338737959/photo/little-kids-schoolchildren-pupils-students-running-hurrying-to-the-school-building-for.jpg?s=612x612&w=0&k=20&c=u2eZV7PY4TTGKvxRBRkhiaDoFFEFPKeOlCsYARCqFSI="
     }
   ];
 
