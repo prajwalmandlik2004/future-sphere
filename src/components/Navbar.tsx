@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Menu, X, Rocket } from "lucide-react";
+import ".Exhibits/images"
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -14,9 +15,9 @@ export default function Navbar() {
                 {/* <Rocket className="h-8 w-8" />
                 <span className="font-bold text-xl">FutureSphere</span> */}
                 <img
-                  src="/src/images/logo.png"
+                  src="https://i.im.ge/2025/01/15/zBH5iT.logo.png"
                   alt="FutureSphere Logo"
-                  className="h-40 w-auto saturate-100"
+                  className="h- w-auto saturate-100"
                 />
               </div>
             </div>
