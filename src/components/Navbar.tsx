@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import { Menu, X, Rocket } from "lucide-react";
-import ".Exhibits/images"
+import { Menu, X, Rocket } from "lucide-react"
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
